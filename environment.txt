@@ -1,0 +1,11 @@
+numpy
+pandas
+pygame
+CTkMessagebox
+pillow
+tkinter
+customtkinter
+mysql-connector-python
+tkintermapview
+tkinterweb
+requests
